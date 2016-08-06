@@ -12,6 +12,10 @@ class IndexHandler(tornado.web.RequestHandler):
         self.render("index.html")
  
 class WebSocketHandler(tornado.websocket.WebSocketHandler):
+
+    def check_origin(self, origin):
+        return True
+
     clients = []
     def open(self):
         print ('new connection')
