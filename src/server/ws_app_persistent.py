@@ -46,30 +46,40 @@ class WebSocketHandler(tornado.websocket.WebSocketHandler):
     	#Se puede deseralizar el objeto insertarlo
     	#al mongo y  
     	#retornalo al write_message
-        print ('message received %s' % message)
+        self.message = json.loads(message)
+        print ('message received %s' % message)        
         print ("el mensaje llego a las:")
-        print (datetime.datetime.now().strftime("%H:%M:%S:%f"))
+        llegada = datetime.datetime.now().strftime("%H:%M:%S:%f")
+        print (llegada)
 
         start = timeit.default_timer()
 
-        #Declara la conexión a mongo
-        db = self.application.database
-        #Llama al respectivo query de la coleccion prueba
-        query = db.prueba.find()
-        #Imprime el query por consola
-        print (dumps(query))
-        #aqui deberia el message insertarse a la coleccion de 
-        #mongo
-
         #self.write_message(u"Your message was: " + message)
-        msg = json.loads(message)
+
         for c in WebSocketHandler.clients:
             if c != self:
                 c.write_message(msg)
 
         stop = timeit.default_timer()
+        diferencia = stop - start
 
-        print (stop - start)
+        #Declara la conexión a mongo
+        db = self.application.database        
+        #se deserealiza el json en la variable msg, esta es un diccionario
+        msg = json.loads(message)
+        #Se inserta el mensaje, la diferencia en tiempo de procesamiento
+        #y el tiempo de llegada en la bd
+        insert = db.pulsos.insert({
+                                    "valor":self.message["var"],
+                                    "llegada": llegada,
+                                    "procesamiento": diferencia
+                                 })
+        #Llama al respectivo query de la coleccion prueba
+        query = db.pulsos.find()
+        #Imprime el query por consola
+        print (dumps(query))
+
+        print (diferencia)
 
     def on_close(self):
         print ('connection closed')
