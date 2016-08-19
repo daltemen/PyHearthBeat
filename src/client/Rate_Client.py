@@ -69,4 +69,5 @@ def recibir_pulso():
 """
 websocket.enableTrace(True)
 ws = websocket.create_connection("ws://52.43.170.107:3000/websocket")
+#ws = websocket.create_connection("ws://localhost:3000/websocket")
 Timer(1, recibir_pulso()).start()
