@@ -49,7 +49,7 @@ class WebSocketHandler(tornado.websocket.WebSocketHandler):
     	#retornalo al write_message
         
         self.message = json.loads(message)
-	if "var" in self.message:
+        if "var" in self.message:
             print ('message received %s' % message)        
             print ("el mensaje llego a las:")
             llegada = datetime.datetime.now().strftime("%H:%M:%S:%f")
