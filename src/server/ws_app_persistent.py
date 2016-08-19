@@ -47,8 +47,9 @@ class WebSocketHandler(tornado.websocket.WebSocketHandler):
     	#Se puede deseralizar el objeto insertarlo
     	#al mongo y  
     	#retornalo al write_message
-        try:
-            self.message = json.loads(message)
+        
+        self.message = json.loads(message)
+	if "var" in self.message:
             print ('message received %s' % message)        
             print ("el mensaje llego a las:")
             llegada = datetime.datetime.now().strftime("%H:%M:%S:%f")
@@ -82,8 +83,8 @@ class WebSocketHandler(tornado.websocket.WebSocketHandler):
             print (dumps(query))
 
             print (diferencia)
-        except:
-            write_message("invalid message")
+        else:
+            self.write_message("invalid message")
     def on_close(self):
         print ('connection closed')
         WebSocketHandler.clients.remove(self)
