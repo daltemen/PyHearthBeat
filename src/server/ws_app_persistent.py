@@ -1,3 +1,4 @@
+# coding=utf-8
 from tornado import gen, web
 import json
 import timeit
