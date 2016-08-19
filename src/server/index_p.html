@@ -60,7 +60,7 @@
          if( typeof(ws) == 'undefined' || ws.readyState === undefined || ws.readyState > 1){
            // websocket on same server with address /websocket
            ws = new WebSocket("ws://52.43.170.107:3000/websocket");
-
+              //ws = new WebSocket("ws:localhost:3000/websocket");
              ws.onopen = function(){
                  // Web Socket is connected, send data using send()
                  console.log("ws open");

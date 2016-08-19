@@ -49,29 +49,30 @@ class WebSocketHandler(tornado.websocket.WebSocketHandler):
     	#retornalo al write_message
         
         self.message = json.loads(message)
+
+        print ('message received %s' % message)        
+        print ("el mensaje llego a las:")
+        llegada = datetime.datetime.now().strftime("%H:%M:%S:%f")
+        print (llegada)
+
+        start = timeit.default_timer()
+
+        #self.write_message(u"Your message was: " + message)
+        msg = json.loads(message)
+        #Se inserta el mensaje, la diferencia en tiempo de procesamiento
+        for c in WebSocketHandler.clients:
+            if c != self:
+                c.write_message(msg)
+
+        stop = timeit.default_timer()
+        diferencia = stop - start
+
+        #Declara la conexión a mongo
+        db = self.application.database        
+        #se deserealiza el json en la variable msg, esta es un diccionario
+        
+        #y el tiempo de llegada en la bd
         if "var" in self.message:
-            print ('message received %s' % message)        
-            print ("el mensaje llego a las:")
-            llegada = datetime.datetime.now().strftime("%H:%M:%S:%f")
-            print (llegada)
-
-            start = timeit.default_timer()
-
-            #self.write_message(u"Your message was: " + message)
-
-            for c in WebSocketHandler.clients:
-                if c != self:
-                    c.write_message(msg)
-
-            stop = timeit.default_timer()
-            diferencia = stop - start
-
-            #Declara la conexión a mongo
-            db = self.application.database        
-            #se deserealiza el json en la variable msg, esta es un diccionario
-            msg = json.loads(message)
-            #Se inserta el mensaje, la diferencia en tiempo de procesamiento
-            #y el tiempo de llegada en la bd
             insert = db.pulsos.insert({
                                         "valor":self.message["var"],
                                         "llegada": llegada,
@@ -84,7 +85,8 @@ class WebSocketHandler(tornado.websocket.WebSocketHandler):
 
             print (diferencia)
         else:
-            self.write_message("invalid message")
+            print ("invalid")
+        
     def on_close(self):
         print ('connection closed')
         WebSocketHandler.clients.remove(self)
