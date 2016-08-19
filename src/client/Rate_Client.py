@@ -22,26 +22,33 @@ def recibir_pulso():
     oldSample=1
     try:
         while True:
-            start = timeit.default_timer()
             sample = io.input(receiver_in)
             if sample == 1 and oldSample == 0:
                 print "Beat 1"
+                start = timeit.default_timer()
                 ws.send(json.dumps({"var":1}))
+                stop = timeit.default_timer()
+                print ("diferencia: ")
+                print (stop - start)
+                print (datetime.datetime.now().strftime("%H:%M:%S:%f"))
                 #io.output(LED_in, io.LOW)
-                print("Receiving...")
+                """print("Receiving...")
                 result = ws.recv()
-                print("Received {}".format(result))
+                print("Received {}".format(result))"""
                 
             if sample == 0 and oldSample == 1:
                 print "Beat 0"
+                start = timeit.default_timer()
                 ws.send(json.dumps({"var":0}))
+                stop = timeit.default_timer()
+                print ("diferencia: ")
+                print (stop - start)
+                print (datetime.datetime.now().strftime("%H:%M:%S:%f"))
                 #io.o   dsfutput(LED_in, io.HIGH) # turn LED off
-                print("Receiving...")
+                """print("Receiving...")
                 result = ws.recv()
-                print("Received {}".format(result))
-            stop = timeit.default_timer()
-            print (stop - start)   
-            print (datetime.datetime.now().strftime("%H:%M:%S:%f"))
+                print("Received {}".format(result))"""
+            
             oldSample = sample
     except KeyboardInterrupt:
         print "Received Interrupt" 
@@ -69,5 +76,5 @@ def recibir_pulso():
 """
 websocket.enableTrace(True)
 ws = websocket.create_connection("ws://52.43.170.107:3000/websocket")
-#ws = websocket.create_connection("ws://localhost:3000/websocket")
+"""ws = websocket.create_connection("ws://localhost:3000/websocket")"""
 Timer(1, recibir_pulso()).start()
