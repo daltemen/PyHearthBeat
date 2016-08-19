@@ -19,7 +19,7 @@ class DataHandler(tornado.web.RequestHandler):
 
 	def get(self):
 		db = self.application.database
-		self.write(dumps(db.prueba.find()))
+		self.write(dumps(db.pulsos.find()))
 
 	def post(self):
 		#self.get_argument('anArg')
@@ -53,6 +53,7 @@ class WebSocketHandler(tornado.websocket.WebSocketHandler):
         print ('message received %s' % message)        
         print ("el mensaje llego a las:")
         llegada = datetime.datetime.now().strftime("%H:%M:%S:%f")
+        print ("llegada:")
         print (llegada)
 
         start = timeit.default_timer()
@@ -66,7 +67,9 @@ class WebSocketHandler(tornado.websocket.WebSocketHandler):
 
         stop = timeit.default_timer()
         diferencia = stop - start
-
+        print ("diferencia sin persistencia: ")
+        print (diferencia)
+        start2 = timeit.default_timer()
         #Declara la conexión a mongo
         db = self.application.database        
         #se deserealiza el json en la variable msg, esta es un diccionario
@@ -79,11 +82,13 @@ class WebSocketHandler(tornado.websocket.WebSocketHandler):
                                         "procesamiento": diferencia
                                      })
             #Llama al respectivo query de la coleccion prueba
-            query = db.pulsos.find()
+            #query = db.pulsos.find()
             #Imprime el query por consola
-            print (dumps(query))
-
-            print (diferencia)
+            #print (dumps(query))
+            stop2 = timeit.default_timer()
+            diferencia2 = stop2 - start2
+            print ("diferencia2: ")
+            print (diferencia2)
         else:
             print ("invalid")
         
