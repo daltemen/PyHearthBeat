@@ -4,6 +4,9 @@ Instalar rabbitmq
 
 	sudo apt-get install rabbitmq-server
 
+Los siguientes comandos deben correrse los 3 al tiempo
+en ese orden respectivamente
+
 Correr el servidor de Celery
 	
 	celery -A tasks worker --loglevel=info

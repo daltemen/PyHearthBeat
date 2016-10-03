@@ -21,12 +21,16 @@ def recibir_pulso():
             print (stop - start)
             print (datetime.datetime.now().strftime("%H:%M:%S:%f"))
 
-            #print("Receiving...")
-            #result = ws.recv()
-            #print("Received {}".format(result))
     except KeyboardInterrupt:
         print ("Received Interrupt") 
 
-websocket.enableTrace(True)
-ws = websocket.create_connection("ws://localhost:3000/websocket")
-Timer(1, recibir_pulso()).start()
+if __name__ == '__main__':
+    while True:
+        try:
+            websocket.enableTrace(True)
+            ws = websocket.create_connection("ws://localhost:3000/websocket")
+            Timer(1, recibir_pulso()).start()
+        except:
+            print ("failed at: ", datetime.datetime.now().strftime("%H:%M:%S:%f"))
+            continue
+        break

@@ -53,6 +53,13 @@ def recibir_pulso():
     except KeyboardInterrupt:
         print "Received Interrupt" 
 
-websocket.enableTrace(True)
-ws = websocket.create_connection("ws://52.43.170.107:3000/websocket")
-Timer(1, recibir_pulso()).start()
+if __name__ == '__main__':
+    while True:
+        try:
+            websocket.enableTrace(True)
+            ws = websocket.create_connection("ws://52.43.170.107:3000/websocket")
+            Timer(1, recibir_pulso()).start()
+        except:
+            print ("failed at: ", datetime.datetime.now().strftime("%H:%M:%S:%f"))
+            continue
+        break
