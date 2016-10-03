@@ -44,10 +44,7 @@ class WebSocketHandler(tornado.websocket.WebSocketHandler):
     	self.write_message("Hello World")
     	WebSocketHandler.clients.append(self)
 
-    def on_message(self, message):
-        self.message = json.loads(message)
-
-        print ('message received %s' % message)        
+    def on_message(self, message):     
         print ("el mensaje llego a las:")
         llegada = datetime.datetime.now().strftime("%H:%M:%S:%f")
         print ("llegada:")
@@ -65,7 +62,8 @@ class WebSocketHandler(tornado.websocket.WebSocketHandler):
 
         stop = timeit.default_timer()
         diferencia = stop - start
-        
+        #Diferencia en enviar la data 
+        #y enviar a la cola de guardado
         print ("diferencia Total: ")
         print (diferencia)
         
