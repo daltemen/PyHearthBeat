@@ -1,37 +1,27 @@
 import os
 import time
 from datetime import datetime
+import pymongo
+from bson.json_util import dumps
 
 from celery import Celery
 
-//Conectarse al broker message RABBITMQ
+#Conectarse al broker message RABBITMQ
 celery = Celery("tasks", broker="amqp://guest:guest@localhost//")
 celery.conf.CELERY_RESULT_BACKEND = os.environ.get('CELERY_RESULT_BACKEND', 'amqp')
-
-
-@celery.task
-def add(x, y):
-    return int(x) + int(y)
-
+con = pymongo.MongoClient()
+database = con["prueba"]
 
 @celery.task
-def sleep(seconds):
-    time.sleep(float(seconds))
-    return seconds
-
-
-@celery.task
-def echo(msg, timestamp=False):
-    return "%s: %s" % (datetime.now(), msg) if timestamp else msg
-
-
-@celery.task
-def error(msg):
-    raise Exception(msg)
-
-@celery.task
-def guardar_Data(json):
-    return ("{}")
+def guardar_Data(mensaje, llegada):
+    if "var" in mensaje:
+        insert = database.pulsos.insert({
+                                    "valor": mensaje["var"],
+                                    "llegada": llegada
+                                 })
+        print ("guardadoExitoso")
+    else:
+        print ("invalido")
 
 if __name__ == "__main__":
     celery.start()

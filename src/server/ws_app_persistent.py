@@ -10,6 +10,7 @@ import tornado.ioloop
 import pymongo
 from bson.json_util import dumps
 
+from tasks import guardar_Data
 #EJEMPLO DE POST Y GET COMUN Y CORRIENTE CON MONGO
 # Aqui la idea es hacer los gets para trabajar la
 #información guardada
@@ -44,10 +45,6 @@ class WebSocketHandler(tornado.websocket.WebSocketHandler):
     	WebSocketHandler.clients.append(self)
 
     def on_message(self, message):
-    	#Se puede deseralizar el objeto insertarlo
-    	#al mongo y  
-    	#retornalo al write_message
-        
         self.message = json.loads(message)
 
         print ('message received %s' % message)        
@@ -58,39 +55,20 @@ class WebSocketHandler(tornado.websocket.WebSocketHandler):
 
         start = timeit.default_timer()
 
-        #self.write_message(u"Your message was: " + message)
         msg = json.loads(message)
-        #Se inserta el mensaje, la diferencia en tiempo de procesamiento
+
         for c in WebSocketHandler.clients:
             if c != self:
                 c.write_message(msg)
+        #Envio_a_la_cola
+        guardar_Data.delay(msg, llegada)
 
         stop = timeit.default_timer()
         diferencia = stop - start
-        print ("diferencia sin persistencia: ")
-        print (diferencia)
-        start2 = timeit.default_timer()
-        #Declara la conexión a mongo
-        db = self.application.database        
-        #se deserealiza el json en la variable msg, esta es un diccionario
         
-        #y el tiempo de llegada en la bd
-        if "var" in self.message:
-            insert = db.pulsos.insert({
-                                        "valor":self.message["var"],
-                                        "llegada": llegada,
-                                        "procesamiento": diferencia
-                                     })
-            #Llama al respectivo query de la coleccion prueba
-            #query = db.pulsos.find()
-            #Imprime el query por consola
-            #print (dumps(query))
-            stop2 = timeit.default_timer()
-            diferencia2 = stop2 - start2
-            print ("diferencia2: ")
-            print (diferencia2)
-        else:
-            print ("invalid")
+        print ("diferencia Total: ")
+        print (diferencia)
+        
         
     def on_close(self):
         print ('connection closed')
