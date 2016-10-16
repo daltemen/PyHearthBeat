@@ -9464,3 +9464,121 @@ You must only enable the serializers that you will actually use.
 [2016-10-16 17:02:50,858: INFO/MainProcess] Task tasks.guardar_Data[ba96aa86-6b3c-48fc-a755-dde22679a79c] succeeded in 0.00905629014596343s: None
 [2016-10-16 17:02:50,859: WARNING/Worker-1] 3143
 [2016-10-16 17:02:50,878: INFO/MainProcess] Received task: tasks.guardar_Data[b63f187d-04a4-4140-890f-2f2aec3ad399]
+[2016-10-16 17:48:33,138: WARNING/MainProcess] consumer: Connection to broker lost. Trying to re-establish the connection...
+Traceback (most recent call last):
+  File "/home/ubuntu/src/env/lib/python3.4/site-packages/celery/worker/consumer.py", line 279, in start
+    blueprint.start(self)
+  File "/home/ubuntu/src/env/lib/python3.4/site-packages/celery/bootsteps.py", line 123, in start
+    step.start(parent)
+  File "/home/ubuntu/src/env/lib/python3.4/site-packages/celery/worker/consumer.py", line 838, in start
+    c.loop(*c.loop_args())
+  File "/home/ubuntu/src/env/lib/python3.4/site-packages/celery/worker/loops.py", line 76, in asynloop
+    next(loop)
+  File "/home/ubuntu/src/env/lib/python3.4/site-packages/kombu/async/hub.py", line 340, in create_loop
+    cb(*cbargs)
+  File "/home/ubuntu/src/env/lib/python3.4/site-packages/kombu/transport/base.py", line 164, in on_readable
+    reader(loop)
+  File "/home/ubuntu/src/env/lib/python3.4/site-packages/kombu/transport/base.py", line 146, in _read
+    drain_events(timeout=0)
+  File "/home/ubuntu/src/env/lib/python3.4/site-packages/amqp/connection.py", line 324, in drain_events
+    return amqp_method(channel, args)
+  File "/home/ubuntu/src/env/lib/python3.4/site-packages/amqp/connection.py", line 527, in _close
+    self._x_close_ok()
+  File "/home/ubuntu/src/env/lib/python3.4/site-packages/amqp/connection.py", line 555, in _x_close_ok
+    self._send_method((10, 51))
+  File "/home/ubuntu/src/env/lib/python3.4/site-packages/amqp/abstract_channel.py", line 56, in _send_method
+    self.channel_id, method_sig, args, content,
+  File "/home/ubuntu/src/env/lib/python3.4/site-packages/amqp/method_framing.py", line 221, in write_method
+    write_frame(1, channel, payload)
+  File "/home/ubuntu/src/env/lib/python3.4/site-packages/amqp/transport.py", line 182, in write_frame
+    frame_type, channel, size, payload, 0xce,
+ConnectionResetError: [Errno 104] Connection reset by peer
+[2016-10-16 17:48:33,204: ERROR/MainProcess] consumer: Cannot connect to amqp://guest:**@127.0.0.1:5672//: [Errno 111] Connection refused.
+Trying again in 2.00 seconds...
+
+[2016-10-16 17:48:35,217: ERROR/MainProcess] consumer: Cannot connect to amqp://guest:**@127.0.0.1:5672//: [Errno 111] Connection refused.
+Trying again in 4.00 seconds...
+
+[2016-10-16 17:48:39,466: ERROR/MainProcess] consumer: Cannot connect to amqp://guest:**@127.0.0.1:5672//: [Errno 111] Connection refused.
+Trying again in 6.00 seconds...
+
+[2016-10-16 17:48:45,840: ERROR/MainProcess] consumer: Cannot connect to amqp://guest:**@127.0.0.1:5672//: [Errno 111] Connection refused.
+Trying again in 8.00 seconds...
+
+[2016-10-16 17:48:53,667: WARNING/Worker-1] /home/ubuntu/src/env/lib/python3.4/site-packages/celery/app/trace.py:365: RuntimeWarning: Exception raised outside body: OSError(ConnectionRefusedError(111, 'Connection refused'),):
+Traceback (most recent call last):
+  File "/home/ubuntu/src/env/lib/python3.4/site-packages/kombu/connection.py", line 436, in _ensured
+    return fun(*args, **kwargs)
+  File "/home/ubuntu/src/env/lib/python3.4/site-packages/kombu/messaging.py", line 184, in _publish
+    [maybe_declare(entity) for entity in declare]
+  File "/home/ubuntu/src/env/lib/python3.4/site-packages/kombu/messaging.py", line 184, in <listcomp>
+    [maybe_declare(entity) for entity in declare]
+  File "/home/ubuntu/src/env/lib/python3.4/site-packages/kombu/messaging.py", line 111, in maybe_declare
+    return maybe_declare(entity, self.channel, retry, **retry_policy)
+  File "/home/ubuntu/src/env/lib/python3.4/site-packages/kombu/common.py", line 113, in maybe_declare
+    return _maybe_declare(entity, declared, ident, channel)
+  File "/home/ubuntu/src/env/lib/python3.4/site-packages/kombu/common.py", line 120, in _maybe_declare
+    entity.declare()
+  File "/home/ubuntu/src/env/lib/python3.4/site-packages/kombu/entity.py", line 521, in declare
+    self.exchange.declare(nowait)
+  File "/home/ubuntu/src/env/lib/python3.4/site-packages/kombu/entity.py", line 174, in declare
+    nowait=nowait, passive=passive,
+  File "/home/ubuntu/src/env/lib/python3.4/site-packages/amqp/channel.py", line 622, in exchange_declare
+    (40, 11),  # Channel.exchange_declare_ok
+  File "/home/ubuntu/src/env/lib/python3.4/site-packages/amqp/abstract_channel.py", line 67, in wait
+    self.channel_id, allowed_methods, timeout)
+  File "/home/ubuntu/src/env/lib/python3.4/site-packages/amqp/connection.py", line 274, in _wait_method
+    wait()
+  File "/home/ubuntu/src/env/lib/python3.4/site-packages/amqp/abstract_channel.py", line 69, in wait
+    return self.dispatch_method(method_sig, args, content)
+  File "/home/ubuntu/src/env/lib/python3.4/site-packages/amqp/abstract_channel.py", line 87, in dispatch_method
+    return amqp_method(self, args)
+  File "/home/ubuntu/src/env/lib/python3.4/site-packages/amqp/connection.py", line 527, in _close
+    self._x_close_ok()
+  File "/home/ubuntu/src/env/lib/python3.4/site-packages/amqp/connection.py", line 555, in _x_close_ok
+    self._send_method((10, 51))
+  File "/home/ubuntu/src/env/lib/python3.4/site-packages/amqp/abstract_channel.py", line 56, in _send_method
+    self.channel_id, method_sig, args, content,
+  File "/home/ubuntu/src/env/lib/python3.4/site-packages/amqp/method_framing.py", line 221, in write_method
+    write_frame(1, channel, payload)
+  File "/home/ubuntu/src/env/lib/python3.4/site-packages/amqp/transport.py", line 182, in write_frame
+    frame_type, channel, size, payload, 0xce,
+ConnectionResetError: [Errno 104] Connection reset by peer
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ubuntu/src/env/lib/python3.4/site-packages/celery/app/trace.py", line 283, in trace_task
+    uuid, retval, SUCCESS, request=task_request,
+  File "/home/ubuntu/src/env/lib/python3.4/site-packages/celery/backends/amqp.py", line 136, in store_result
+    delivery_mode=self.delivery_mode,
+  File "/home/ubuntu/src/env/lib/python3.4/site-packages/kombu/messaging.py", line 172, in publish
+    routing_key, mandatory, immediate, exchange, declare)
+  File "/home/ubuntu/src/env/lib/python3.4/site-packages/kombu/connection.py", line 457, in _ensured
+    interval_max)
+  File "/home/ubuntu/src/env/lib/python3.4/site-packages/kombu/connection.py", line 369, in ensure_connection
+    interval_start, interval_step, interval_max, callback)
+  File "/home/ubuntu/src/env/lib/python3.4/site-packages/kombu/utils/__init__.py", line 246, in retry_over_time
+    return fun(*args, **kwargs)
+  File "/home/ubuntu/src/env/lib/python3.4/site-packages/kombu/connection.py", line 237, in connect
+    return self.connection
+  File "/home/ubuntu/src/env/lib/python3.4/site-packages/kombu/connection.py", line 742, in connection
+    self._connection = self._establish_connection()
+  File "/home/ubuntu/src/env/lib/python3.4/site-packages/kombu/connection.py", line 697, in _establish_connection
+    conn = self.transport.establish_connection()
+  File "/home/ubuntu/src/env/lib/python3.4/site-packages/kombu/transport/pyamqp.py", line 116, in establish_connection
+    conn = self.Connection(**opts)
+  File "/home/ubuntu/src/env/lib/python3.4/site-packages/amqp/connection.py", line 165, in __init__
+    self.transport = self.Transport(host, connect_timeout, ssl)
+  File "/home/ubuntu/src/env/lib/python3.4/site-packages/amqp/connection.py", line 186, in Transport
+    return create_transport(host, connect_timeout, ssl)
+  File "/home/ubuntu/src/env/lib/python3.4/site-packages/amqp/transport.py", line 299, in create_transport
+    return TCPTransport(host, connect_timeout)
+  File "/home/ubuntu/src/env/lib/python3.4/site-packages/amqp/transport.py", line 95, in __init__
+    raise socket.error(last_err)
+OSError: [Errno 111] Connection refused
+
+  exc, exc_info.traceback)))
+[2016-10-16 17:48:54,151: ERROR/MainProcess] consumer: Cannot connect to amqp://guest:**@127.0.0.1:5672//: [Errno 111] Connection refused.
+Trying again in 10.00 seconds...
+
