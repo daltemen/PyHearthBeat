@@ -1,4 +1,3 @@
-from threading import Timer
 import timeit
 import datetime
 import time
@@ -7,7 +6,12 @@ import os
 import websocket
 import json
 import sys
-import Adafruit_DHT
+#import Adafruit_DHT
+#import Queue as Q
+#import zmq
+from threading import Timer
+#from multiprocessing import Process, Queue
+
 
 def recibir_pulso():
     io.setmode(io.BCM)
@@ -62,6 +66,5 @@ if __name__ == '__main__':
             ws = websocket.create_connection("ws://52.43.170.107:3000/websocket")
             Timer(1, recibir_pulso()).start()
         except:
-            print ("failed at: ", datetime.datetime.now().strftime("%H:%M:%S:%f"))
             continue
         break

@@ -16,7 +16,8 @@ database = con["prueba"]
 def guardar_Data(mensaje, llegada):
     if "var" in mensaje:
         insert = database.pulsos.insert({
-                                    "valor": mensaje["var"],				    
+                                    "valor": mensaje["var"],
+				    "temperatura_humedad" : mensaje["temp_hum"],
                                     "llegada": llegada
                                  })
         print ("guardadoExitoso")
