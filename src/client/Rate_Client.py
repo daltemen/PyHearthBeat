@@ -27,16 +27,18 @@ def recibir_pulso():
     sample=2
     oldSample=1
     try:
+	cont = 1
         while True:
             sample = io.input(receiver_in)
             if sample == 1 and oldSample == 0:
                 print ("Beat 1")
                 start = timeit.default_timer()
-                ws.send(json.dumps({"var":1}))
+                ws.send(json.dumps({"cont":cont,"var":1}))
                 stop = timeit.default_timer()
                 print ("diferencia: ")
                 print (stop - start)
                 print (datetime.datetime.now().strftime("%H:%M:%S:%f"))		
+		cont = cont+1
                 #io.output(LED_in, io.LOW)
                 """print("Receiving...")
                 result = ws.recv()
@@ -45,11 +47,12 @@ def recibir_pulso():
             if sample == 0 and oldSample == 1:
                 print "Beat 0"
                 start = timeit.default_timer()
-                ws.send(json.dumps({"var":0}))
+                ws.send(json.dumps({"cont":cont,"var":0}))
                 stop = timeit.default_timer()
                 print ("diferencia: ")
                 print (stop - start)
                 print (datetime.datetime.now().strftime("%H:%M:%S:%f"))
+		cont = cont +1
                 #io.o   dsfutput(LED_in, io.HIGH) # turn LED off
                 """print("Receiving...")
                 result = ws.recv()
