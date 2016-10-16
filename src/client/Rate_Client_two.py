@@ -54,11 +54,11 @@ def recibir_pulso(queue):
 		    else:
 			new_data = {}
 		tem.append(new_data)
-                ws.send(json.dumps({"var":1,"temp_hum":new_data}))
+                ws.send(json.dumps({"cont":cont,"var":1,"temp_hum":new_data}))
                 stop = timeit.default_timer()
                 print ("diferencia: ")
                 print (stop - start)
-                print ( cont + datetime.datetime.now().strftime("%H:%M:%S:%f"))		
+                print (datetime.datetime.now().strftime("%H:%M:%S:%f"))		
 		cont = cont+1
                 #io.output(LED_in, io.LOW)
                 """print("Receiving...")
@@ -76,13 +76,13 @@ def recibir_pulso(queue):
                     else:
                         new_data = {}
                 tem.append(new_data)
-                ws.send(json.dumps({"var":0,"temp_hum":new_data}))
+                ws.send(json.dumps({"cont":cont,"var":0,"temp_hum":new_data}))
 
                 stop = timeit.default_timer()
                 print ("diferencia: ")
                 print (stop - start)
-                print (cont + datetime.datetime.now().strftime("%H:%M:%S:%f"))
-		cont = cont + 1
+                print (datetime.datetime.now().strftime("%H:%M:%S:%f"))
+		cont = cont+1
                 #io.o   dsfutput(LED_in, io.HIGH) # turn LED off
                 """print("Receiving...")
                 result = ws.recv()
