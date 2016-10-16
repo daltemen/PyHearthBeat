@@ -6,6 +6,8 @@ import RPi.GPIO as io
 import os 
 import websocket
 import json
+import sys
+import Adafruit_DHT
 
 def recibir_pulso():
     io.setmode(io.BCM)
@@ -30,7 +32,7 @@ def recibir_pulso():
                 stop = timeit.default_timer()
                 print ("diferencia: ")
                 print (stop - start)
-                print (datetime.datetime.now().strftime("%H:%M:%S:%f"))
+                print (datetime.datetime.now().strftime("%H:%M:%S:%f"))		
                 #io.output(LED_in, io.LOW)
                 """print("Receiving...")
                 result = ws.recv()
