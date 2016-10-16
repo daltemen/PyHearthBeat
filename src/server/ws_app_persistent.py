@@ -62,10 +62,15 @@ class WebSocketHandler(tornado.websocket.WebSocketHandler):
 
         stop = timeit.default_timer()
         diferencia = stop - start
+        if "cont" in msg:
+            print (msg["cont"])
+        print (diferencia)
         #Diferencia en enviar la data 
         #y enviar a la cola de guardado
-        print ("diferencia Total: ")
-        print (diferencia)
+#        print ("diferencia Total: ")
+#	if "cont" in msg:
+#		print (msg["cont"])
+#	print (diferencia)
         
         
     def on_close(self):
