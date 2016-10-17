@@ -39,6 +39,7 @@ def recibir_pulso():
                 print (stop - start)
                 print (datetime.datetime.now().strftime("%H:%M:%S:%f"))		
 		cont = cont+1
+		print cont
                 #io.output(LED_in, io.LOW)
                 """print("Receiving...")
                 result = ws.recv()
@@ -53,6 +54,7 @@ def recibir_pulso():
                 print (stop - start)
                 print (datetime.datetime.now().strftime("%H:%M:%S:%f"))
 		cont = cont +1
+		print cont
                 #io.o   dsfutput(LED_in, io.HIGH) # turn LED off
                 """print("Receiving...")
                 result = ws.recv()
