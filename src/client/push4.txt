@@ -1,0 +1,1246 @@
+20:27:56:836631Temp: 9.0 C Humidity: 152.0 %
+diferencia: 
+50.9366650581
+20:28:50:032616Temp: 9.0 C Humidity: 152.0 %
+diferencia: 
+10.8149011135
+20:28:50:742106Temp: 9.0 C Humidity: 152.0 %
+diferencia: 
+0.651381969452
+20:28:51:393495Temp: 9.0 C Humidity: 152.0 %
+diferencia: 
+0.667216062546
+20:28:57:114238Temp: 9.0 C Humidity: 152.0 %
+diferencia: 
+5.76615905762
+20:28:57:827022Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+0.723608970642
+20:28:58:550696Temp: 9.0 C Humidity: 152.0 %
+diferencia: 
+0.636439085007
+20:28:59:187186Temp: 9.0 C Humidity: 152.0 %
+diferencia: 
+0.664256095886
+20:29:04:905201Temp: 9.0 C Humidity: 152.0 %
+diferencia: 
+5.74321699142
+20:29:08:121412Temp: 9.0 C Humidity: 152.0 %
+diferencia: 
+3.19317913055
+20:29:08:787974Temp: 9.0 C Humidity: 152.0 %
+diferencia: 
+0.698290109634
+20:29:09:486352Temp: 9.0 C Humidity: 152.0 %
+diferencia: 
+0.637584924698
+20:29:15:178167Temp: 9.0 C Humidity: 152.0 %
+diferencia: 
+5.69478082657
+20:29:15:819590Temp: 9.0 C Humidity: 152.0 %
+diferencia: 
+0.708337068558
+20:29:19:054646Temp: 9.0 C Humidity: 152.0 %
+diferencia: 
+3.16311693192
+20:29:24:744527Temp: 9.0 C Humidity: 152.0 %
+diferencia: 
+5.6947491169
+20:29:27:912557Temp: 9.0 C Humidity: 152.0 %
+diferencia: 
+3.18211817741
+20:29:36:148088Temp: 9.0 C Humidity: 152.0 %
+diferencia: 
+8.2286131382
+20:29:36:796763Temp: 9.0 C Humidity: 152.0 %
+diferencia: 
+0.643450021744
+20:29:37:440177Temp: 9.0 C Humidity: 152.0 %
+diferencia: 
+0.719475030899
+20:29:43:213335Temp: 9.0 C Humidity: 152.0 %
+diferencia: 
+5.69110012054
+20:29:43:850828Temp: 9.0 C Humidity: 152.0 %
+diferencia: 
+0.703663110733
+20:29:47:081924Temp: 9.0 C Humidity: 152.0 %
+diferencia: 
+3.2227730751
+20:29:50:303887Temp: 9.0 C Humidity: 152.0 %
+diferencia: 
+3.18480396271
+20:29:53:488789Temp: 9.0 C Humidity: 152.0 %
+diferencia: 
+3.25115299225
+20:29:59:266724Temp: 9.0 C Humidity: 152.0 %
+diferencia: 
+5.69457888603
+20:30:02:434610Temp: 9.0 C Humidity: 152.0 %
+diferencia: 
+3.16600799561
+20:30:05:600690Temp: 9.0 C Humidity: 152.0 %
+diferencia: 
+3.24416399002
+20:30:08:844956Temp: 9.0 C Humidity: 152.0 %
+diferencia: 
+3.15709900856
+20:30:14:528705Temp: 9.0 C Humidity: 152.0 %
+diferencia: 
+5.74196004868
+20:30:20:270867Temp: 9.0 C Humidity: 152.0 %
+diferencia: 
+5.72365903854
+20:30:23:475087Temp: 9.0 C Humidity: 152.0 %
+diferencia: 
+3.21326303482
+20:30:26:681143Temp: 9.0 C Humidity: 152.0 %
+diferencia: 
+3.1851670742
+20:30:34:919345Temp: 9.0 C Humidity: 152.0 %
+diferencia: 
+8.29009604454
+20:30:35:629720Temp: 9.0 C Humidity: 152.0 %
+diferencia: 
+0.720461845398
+20:30:41:403543Temp: 9.0 C Humidity: 152.0 %
+diferencia: 
+5.74063897133
+20:30:47:144284Temp: 9.0 C Humidity: 152.0 %
+diferencia: 
+5.75178790092
+20:30:50:369307Temp: 9.0 C Humidity: 152.0 %
+diferencia: 
+3.18283820152
+20:30:51:025613Temp: 9.0 C Humidity: 152.0 %
+diferencia: 
+0.688286066055
+20:30:51:714109Temp: 9.0 C Humidity: 152.0 %
+diferencia: 
+0.660409927368
+20:30:54:901200Temp: 9.0 C Humidity: 152.0 %
+diferencia: 
+3.19598698616
+20:31:00:623850Temp: 9.0 C Humidity: 152.0 %
+diferencia: 
+5.76682782173
+20:31:03:864019Temp: 9.0 C Humidity: 152.0 %
+diferencia: 
+3.22901296616
+20:31:09:619789Temp: 9.0 C Humidity: 152.0 %
+diferencia: 
+5.76781392097
+20:31:10:334391Temp: 9.0 C Humidity: 152.0 %
+diferencia: 
+0.677498817444
+20:31:16:065405Temp: 9.0 C Humidity: 152.0 %
+diferencia: 
+5.68166899681
+20:31:16:693621Temp: 9.0 C Humidity: 152.0 %
+diferencia: 
+0.658217906952
+20:31:17:351911Temp: 9.0 C Humidity: 152.0 %
+diferencia: 
+0.702358007431
+20:31:23:108098Temp: 9.0 C Humidity: 152.0 %
+diferencia: 
+5.71923995018
+20:31:28:826758Temp: 9.0 C Humidity: 152.0 %
+diferencia: 
+5.70568704605
+20:31:29:479647Temp: 9.0 C Humidity: 152.0 %
+diferencia: 
+0.668581962585
+20:31:35:201597Temp: 9.0 C Humidity: 152.0 %
+diferencia: 
+5.7750210762
+20:31:40:976273Temp: 9.0 C Humidity: 152.0 %
+diferencia: 
+5.71375608444
+20:31:41:636850Temp: 9.0 C Humidity: 152.0 %
+diferencia: 
+0.641425848007
+20:31:47:331689Temp: 9.0 C Humidity: 152.0 %
+diferencia: 
+5.77670788765
+20:31:50:581577Temp: 9.0 C Humidity: 152.0 %
+diferencia: 
+3.16991400719
+20:31:51:225049Temp: 9.0 C Humidity: 152.0 %
+diferencia: 
+0.678417921066
+20:31:56:956833Temp: 9.0 C Humidity: 152.0 %
+diferencia: 
+5.68062806129
+20:31:57:584157Temp: 9.0 C Humidity: 152.0 %
+diferencia: 
+0.66010093689
+20:32:03:297699Temp: 9.0 C Humidity: 152.0 %
+diferencia: 
+5.69259190559
+20:32:14:043667Temp: 9.0 C Humidity: 152.0 %
+diferencia: 
+10.8251779079
+20:32:19:815447Temp: 9.0 C Humidity: 152.0 %
+diferencia: 
+5.76776790619
+20:32:20:530085Temp: 9.0 C Humidity: 152.0 %
+diferencia: 
+0.705320119858
+20:32:21:235443Temp: 9.0 C Humidity: 152.0 %
+diferencia: 
+0.671270847321
+20:32:24:433372Temp: 9.0 C Humidity: 152.0 %
+diferencia: 
+3.18195080757
+20:32:27:615358Temp: 9.0 C Humidity: 152.0 %
+diferencia: 
+3.21021294594
+20:32:33:352436Temp: 9.0 C Humidity: 152.0 %
+diferencia: 
+5.74681901932
+20:32:34:068429Temp: 9.0 C Humidity: 152.0 %
+diferencia: 
+0.705850839615
+20:32:34:752619Temp: 9.0 C Humidity: 152.0 %
+diferencia: 
+0.66127204895
+20:32:40:466445Temp: 9.0 C Humidity: 152.0 %
+diferencia: 
+5.73379993439
+20:32:43:673403Temp: 9.0 C Humidity: 152.0 %
+diferencia: 
+3.17185711861
+20:32:49:372131Temp: 9.0 C Humidity: 152.0 %
+diferencia: 
+5.75595188141
+20:32:50:074835Temp: 9.0 C Humidity: 152.0 %
+diferencia: 
+0.707026004791
+20:32:50:782006Temp: 9.0 C Humidity: 152.0 %
+diferencia: 
+0.677603006363
+20:32:53:986182Temp: 9.0 C Humidity: 152.0 %
+diferencia: 
+3.22299790382
+20:32:57:209181Temp: 9.0 C Humidity: 152.0 %
+diferencia: 
+3.20898413658
+20:33:00:418214Temp: 9.0 C Humidity: 152.0 %
+diferencia: 
+3.24103283882
+20:33:01:132671Temp: 9.0 C Humidity: 152.0 %
+diferencia: 
+0.67015004158
+20:33:01:802845Temp: 9.0 C Humidity: 152.0 %
+diferencia: 
+0.692216873169
+20:33:05:021770Temp: 9.0 C Humidity: 152.0 %
+diferencia: 
+3.24696993828
+20:33:08:268742Temp: 9.0 C Humidity: 152.0 %
+diferencia: 
+3.22219181061
+20:33:08:964279Temp: 9.0 C Humidity: 152.0 %
+diferencia: 
+0.706032037735
+20:33:14:724140Temp: 9.0 C Humidity: 152.0 %
+diferencia: 
+5.74396014214
+20:33:17:941360Temp: 9.0 C Humidity: 152.0 %
+diferencia: 
+3.19428491592
+20:33:21:135450Temp: 9.0 C Humidity: 152.0 %
+diferencia: 
+3.24601507187
+20:33:21:854898Temp: 9.0 C Humidity: 152.0 %
+diferencia: 
+0.66041302681
+20:33:22:515377Temp: 9.0 C Humidity: 152.0 %
+diferencia: 
+0.650395870209
+20:33:28:219203Temp: 9.0 C Humidity: 152.0 %
+diferencia: 
+5.76773619652
+20:33:31:460103Temp: 9.0 C Humidity: 152.0 %
+diferencia: 
+3.24393296242
+20:33:37:232202Temp: 9.0 C Humidity: 152.0 %
+diferencia: 
+5.75622916222
+20:33:37:933756Temp: 9.0 C Humidity: 152.0 %
+diferencia: 
+0.685445070267
+20:33:38:619297Temp: 9.0 C Humidity: 152.0 %
+diferencia: 
+0.706386089325
+20:33:39:325768Temp: 9.0 C Humidity: 152.0 %
+diferencia: 
+0.663431882858
+20:33:45:042474Temp: 9.0 C Humidity: 152.0 %
+diferencia: 
+5.7026219368
+20:33:45:691856Temp: 9.0 C Humidity: 152.0 %
+diferencia: 
+0.648297071457
+20:33:48:866549Temp: 9.0 C Humidity: 152.0 %
+diferencia: 
+3.15876293182
+20:33:54:552755Temp: 9.0 C Humidity: 152.0 %
+diferencia: 
+5.75727391243
+20:33:57:782865Temp: 9.0 C Humidity: 152.0 %
+diferencia: 
+3.23609399796
+20:33:58:492445Temp: 9.0 C Humidity: 152.0 %
+diferencia: 
+0.644158840179
+20:33:59:136660Temp: 9.0 C Humidity: 152.0 %
+diferencia: 
+0.717423915863
+20:33:59:854107Temp: 9.0 C Humidity: 152.0 %
+diferencia: 
+0.702538967133
+20:34:08:136655Temp: 9.0 C Humidity: 152.0 %
+diferencia: 
+8.28238487244
+20:34:08:839196Temp: 9.0 C Humidity: 152.0 %
+diferencia: 
+0.717624902725
+20:34:09:556866Temp: 9.0 C Humidity: 152.0 %
+diferencia: 
+0.639359951019
+20:34:15:249295Temp: 9.0 C Humidity: 152.0 %
+diferencia: 
+5.68536281586
+20:34:18:408268Temp: 10.0 C Humidity: 151.0 %
+diferencia: 
+3.15700507164
+20:34:19:038783Temp: 9.0 C Humidity: 152.0 %
+diferencia: 
+0.65452504158
+20:34:19:693294Temp: 9.0 C Humidity: 152.0 %
+diferencia: 
+0.643316984177
+20:34:20:336665Temp: 9.0 C Humidity: 152.0 %
+diferencia: 
+0.643126010895
+20:34:26:033197Temp: 9.0 C Humidity: 152.0 %
+diferencia: 
+5.75172710419
+20:34:29:258202Temp: 9.0 C Humidity: 152.0 %
+diferencia: 
+3.17101883888
+20:34:34:955925Temp: 9.0 C Humidity: 152.0 %
+diferencia: 
+5.71752405167
+20:34:38:146712Temp: 9.0 C Humidity: 152.0 %
+diferencia: 
+3.17275810242
+20:34:41:319644Temp: 9.0 C Humidity: 152.0 %
+diferencia: 
+3.19710803032
+20:34:44:516946Temp: 9.0 C Humidity: 152.0 %
+diferencia: 
+3.20629811287
+20:35:07:936146Temp: 9.0 C Humidity: 152.0 %
+diferencia: 
+23.4198970795
+20:35:11:143003Temp: 9.0 C Humidity: 152.0 %
+diferencia: 
+3.22187709808
+20:35:14:365031Temp: 9.0 C Humidity: 152.0 %
+diferencia: 
+3.19521093369
+20:35:17:560209Temp: 9.0 C Humidity: 152.0 %
+diferencia: 
+3.19787287712
+20:35:23:285738Temp: 9.0 C Humidity: 152.0 %
+diferencia: 
+5.73555612564
+20:35:26:493817Temp: 9.0 C Humidity: 152.0 %
+diferencia: 
+3.24927186966
+20:35:27:216561Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+0.648559808731
+20:35:27:864943Temp: 9.0 C Humidity: 152.0 %
+diferencia: 
+0.673199892044
+20:35:56:330963Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+28.4651210308
+20:36:02:056673Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+5.71969008446
+20:36:02:723250Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+0.637341022491
+20:36:08:414445Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+5.73332715034
+20:36:09:095075Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+0.688574790955
+20:36:12:310563Temp: 9.0 C Humidity: 152.0 %
+diferencia: 
+3.18019294739
+20:36:15:489632Temp: 9.0 C Humidity: 152.0 %
+diferencia: 
+3.17308020592
+20:36:16:135959Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+0.670378923416
+20:36:19:333052Temp: 9.0 C Humidity: 152.0 %
+diferencia: 
+3.22348213196
+20:36:20:029875Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+0.634325027466
+20:36:25:717550Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+5.76153707504
+20:36:26:425877Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+0.698195934296
+20:36:32:177114Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+5.74116516113
+20:36:32:865370Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+0.626194000244
+20:36:33:491602Temp: 9.0 C Humidity: 152.0 %
+diferencia: 
+0.626273870468
+20:36:36:644555Temp: 10.0 C Humidity: 151.0 %
+diferencia: 
+3.23219299316
+20:36:37:350304Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+0.642440080643
+20:36:40:519312Temp: 10.0 C Humidity: 151.0 %
+diferencia: 
+3.17473101616
+20:36:41:167443Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+0.707283973694
+20:36:44:401247Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+3.18581700325
+20:36:45:060570Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+0.63411283493
+20:36:45:694692Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+0.678486824036
+20:36:46:373388Temp: 10.0 C Humidity: 151.0 %
+diferencia: 
+0.725284099579
+20:36:49:625227Temp: 10.0 C Humidity: 151.0 %
+diferencia: 
+3.16001296043
+20:36:50:258731Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+0.63937497139
+20:36:53:424635Temp: 10.0 C Humidity: 151.0 %
+diferencia: 
+3.19101500511
+20:36:54:089213Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+0.652455091476
+20:36:59:794665Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+5.7632598877
+20:37:00:504961Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+0.716672897339
+20:37:01:221750Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+0.702447891235
+20:37:06:977319Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+5.76367902756
+20:37:10:214546Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+3.19807219505
+20:37:10:885931Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+0.705330133438
+20:37:16:644574Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+5.76685404778
+20:37:22:411494Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+5.72750282288
+20:37:28:139088Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+5.68668293953
+20:37:28:772642Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+0.662252902985
+20:37:34:487986Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+5.76950311661
+20:37:35:204371Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+0.680305957794
+20:37:40:937905Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+5.69232106209
+20:37:41:577178Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+0.695240020752
+20:37:47:325760Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+5.74664998055
+20:37:48:019440Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+0.647404909134
+20:37:53:719666Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+5.76641607285
+20:37:54:433199Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+0.714328050613
+20:37:55:147562Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+0.631340026855
+20:38:00:832010Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+5.70662808418
+20:38:01:485463Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+0.710417985916
+20:38:07:249185Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+5.69936203957
+20:38:07:895440Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+0.69616317749
+20:38:08:591687Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+0.670341968536
+20:38:14:315194Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+5.70974707603
+20:38:14:971879Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+0.718441963196
+20:38:15:690422Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+0.698676109314
+20:38:16:389422Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+0.700028181076
+20:38:24:669170Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+8.27623510361
+20:38:30:418756Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+5.71938991547
+20:38:36:138044Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+5.72547602654
+20:38:36:810435Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+0.72451710701
+20:38:42:588089Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+5.70336198807
+20:38:43:238467Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+0.683367013931
+20:38:48:974951Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+5.69846105576
+20:38:49:620375Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+0.706290960312
+20:38:50:326655Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+0.72035908699
+20:38:56:100236Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+5.70655894279
+20:38:56:753577Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+0.69936299324
+20:39:02:511575Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+5.78295516968
+20:39:03:236108Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+0.686230897903
+20:39:11:501629Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+8.2847468853
+20:39:12:207161Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+0.667108774185
+20:39:15:400926Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+3.22212696075
+20:39:16:096506Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+0.678231954575
+20:39:16:774778Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+0.687479972839
+20:39:22:515536Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+5.75365996361
+20:39:23:215981Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+0.67019701004
+20:39:31:465940Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+8.20886206627
+20:39:32:095026Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+0.658233165741
+20:39:37:807763Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+5.72291588783
+20:39:38:476248Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+0.702378034592
+20:39:46:759328Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+8.27890110016
+20:39:47:457721Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+0.684334039688
+20:39:53:195172Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+5.71535015106
+20:40:01:437198Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+8.25910592079
+20:40:07:169723Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+5.73078298569
+20:40:07:847521Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+0.6592669487
+20:40:08:506806Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+0.716423988342
+20:40:14:276417Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+5.74654388428
+20:40:14:969845Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+0.642387866974
+20:40:23:191760Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+8.20582604408
+20:40:23:818165Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+0.662508010864
+20:40:29:545004Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+5.73972296715
+20:40:30:222033Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+0.678852081299
+20:40:33:426839Temp: 9.0 C Humidity: 152.0 %
+diferencia: 
+3.16643095016
+20:40:34:066886Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+0.680581092834
+20:40:39:800345Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+5.71332216263
+20:40:45:514153Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+5.7318110466
+20:40:46:192530Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+0.701406002045
+20:40:54:472614Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+8.21008396149
+20:41:00:157494Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+5.71576881409
+20:41:00:819938Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+0.688235998154
+20:41:01:508170Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+0.686601161957
+20:41:07:248268Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+5.75604605675
+20:41:07:950891Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+0.676764965057
+20:41:11:154717Temp: 9.0 C Humidity: 152.0 %
+diferencia: 
+3.20954990387
+20:41:11:837262Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+0.668256998062
+20:41:12:505832Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+0.67351102829
+20:41:13:179421Temp: 9.0 C Humidity: 152.0 %
+diferencia: 
+0.665300130844
+20:41:13:844689Temp: 9.0 C Humidity: 152.0 %
+diferencia: 
+0.702383995056
+20:41:19:600278Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+5.72759604454
+20:41:20:274748Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+0.673378944397
+20:41:28:527857Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+8.2130010128
+20:41:29:161187Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+0.661170959473
+20:41:34:875678Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+5.71853303909
+20:41:40:594264Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+5.74286985397
+20:41:41:283896Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+0.685571908951
+20:41:41:969658Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+0.675989866257
+20:41:52:752008Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+10.7658789158
+20:41:53:411360Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+0.717191934586
+20:42:09:288522Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+15.8631420135
+20:42:09:991924Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+0.712425947189
+20:42:10:704494Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+0.723714113235
+20:42:11:428176Temp: 9.0 C Humidity: 152.0 %
+diferencia: 
+0.693444013596
+20:42:17:174767Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+5.71974682808
+20:42:20:368254Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+3.19641494751
+20:42:36:197727Temp: 9.0 C Humidity: 153.0 %
+diferencia: 
+15.8152110577
+20:42:41:907400Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+5.76273012161
+20:42:42:615878Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+0.71533203125
+20:42:45:857832Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+3.17896413803
+20:42:46:510225Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+0.687240123749
+20:42:54:777515Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+8.21428799629
+20:42:55:411884Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+0.69722700119
+20:42:56:109160Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+0.655462026596
+20:43:01:817605Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+5.71751213074
+20:43:02:482131Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+0.67062997818
+20:43:08:206167Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+5.7567050457
+20:43:11:436404Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+3.24318909645
+20:43:12:152794Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+0.698131084442
+20:43:17:904215Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+5.69348096848
+20:43:23:597815Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+5.68466091156
+20:43:24:229336Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+0.63821387291
+20:43:29:920632Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+5.6795129776
+20:43:30:547167Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+0.652595996857
+20:43:31:199879Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+0.642318964005
+20:43:52:054962Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+20.8649511337
+20:43:52:707179Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+0.672842979431
+20:44:00:960006Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+8.25324702263
+20:44:01:633446Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+0.677595853806
+20:44:09:890875Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+8.2852730751
+20:44:15:649725Temp: 9.0 C Humidity: 153.0 %
+diferencia: 
+5.68467879295
+20:44:21:334147Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+5.69142699242
+20:44:21:972558Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+0.688263893127
+20:44:30:240715Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+8.21825194359
+20:44:33:405831Temp: 9.0 C Humidity: 152.0 %
+diferencia: 
+3.21292090416
+20:44:34:092062Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+0.684210777283
+20:44:37:302772Temp: 9.0 C Humidity: 152.0 %
+diferencia: 
+3.24180006981
+20:44:45:599221Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+8.21036314964
+20:44:53:808267Temp: 9.0 C Humidity: 153.0 %
+diferencia: 
+8.2740418911
+20:45:02:082555Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+8.29350590706
+20:45:07:849481Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+5.71783995628
+20:45:08:514382Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+0.696506977081
+20:45:14:263987Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+5.68343496323
+20:45:17:420883Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+3.1589910984
+20:45:18:053320Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+0.723363161087
+20:45:23:829932Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+5.73246502876
+20:45:29:562568Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+5.69643902779
+20:45:30:205893Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+0.719480037689
+20:45:35:978574Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+5.75239109993
+20:45:36:677858Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+0.647269964218
+20:45:42:378221Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+5.71652793884
+20:45:43:041800Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+0.63324713707
+20:45:51:254791Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+8.26312208176
+20:45:51:938260Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+0.645269155502
+20:45:52:583577Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+0.674333095551
+20:45:53:257902Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+0.644145965576
+20:45:58:955138Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+5.7042119503
+20:45:59:606371Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+0.648201942444
+20:46:05:307646Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+5.68430709839
+20:46:08:465603Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+3.24612498283
+20:46:09:185183Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+0.644156932831
+20:46:12:355901Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+3.21790504456
+20:46:13:047253Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+0.643136024475
+20:46:18:743426Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+5.70130205154
+20:46:24:445001Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+5.70067501068
+20:46:27:619190Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+3.18418812752
+20:46:28:276772Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+0.70849108696
+20:46:28:985345Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+0.666235923767
+20:46:34:704676Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+5.68441390991
+20:46:35:336044Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+0.695833921432
+20:46:41:086360Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+5.7014040947
+20:46:41:734625Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+0.720247983932
+20:46:47:508021Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+5.75856089592
+20:46:48:213589Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+0.663206100464
+20:46:53:929757Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+5.73347711563
+20:46:54:610190Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+0.672528982162
+20:46:55:284956Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+0.707434892654
+20:47:01:045348Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+5.69546508789
+20:47:01:687784Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+0.705285072327
+20:47:02:393074Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+0.722779989243
+20:47:05:642902Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+3.19134712219
+20:47:06:307254Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+0.692260980606
+20:47:12:071564Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+5.76832509041
+20:47:12:768064Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+0.686319828033
+20:47:18:505991Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+5.70296216011
+20:47:19:157441Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+0.662306070328
+20:47:24:872770Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+5.70337080956
+20:47:25:524360Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+0.682580947876
+20:47:31:258947Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+5.73643684387
+20:47:34:469051Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+3.20010399818
+20:47:35:142398Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+0.653425216675
+20:47:38:322400Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+3.18897008896
+20:47:38:984788Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+0.692348957062
+20:47:44:730324Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+5.71224117279
+20:47:47:916416Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+3.24530386925
+20:47:48:634940Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+0.631477117538
+20:47:54:319985Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+5.71887397766
+20:47:54:985499Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+0.681362867355
+20:47:55:668622Temp: 20.0 C Humidity: 49.0 %
+diferencia: 
+0.717211008072
+20:48:01:437031Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+5.77261996269
+20:48:02:158817Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+0.633157014847
+20:48:07:843860Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+5.70315289497
+20:48:08:493166Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+0.643279790878
+20:48:14:190030Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+5.77283620834
+20:48:14:909408Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+0.70042514801
+20:48:15:609732Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+0.660285949707
+20:48:16:270080Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+0.669854879379
+20:48:21:993273Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+5.7414150238
+20:48:22:681538Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+0.653276920319
+20:48:28:387851Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+5.68932795525
+20:48:29:024260Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+0.662419080734
+20:48:32:213298Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+3.16279506683
+20:48:32:849563Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+0.668332099915
+20:48:38:571019Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+5.77362704277
+20:48:39:291638Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+0.711505889893
+20:48:42:529604Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+3.15381503105
+20:48:43:156955Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+0.69947385788
+20:48:48:909683Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+5.75242614746
+20:48:49:609091Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+0.636166095734
+20:48:55:298294Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+5.69623208046
+20:48:55:941505Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+0.637087106705
+20:48:59:105142Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+3.24300193787
+20:48:59:822014Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+0.656617164612
+20:49:05:531999Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+5.69878292084
+20:49:06:177271Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+0.7071788311
+20:49:11:937551Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+5.71632885933
+20:49:12:600923Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+0.678422927856
+20:49:18:332289Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+5.68429493904
+20:49:18:963787Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+0.642353057861
+20:49:24:659404Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+5.76461291313
+20:49:25:370723Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+0.669302940369
+20:49:31:093072Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+5.72838783264
+20:49:31:768555Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+0.693464040756
+20:49:37:515140Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+5.69043707848
+20:49:43:205658Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+5.72370481491
+20:49:43:876274Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+0.691600084305
+20:49:47:094450Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+3.23694896698
+20:49:47:804844Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+0.696123123169
+20:49:48:501095Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+0.640455007553
+20:49:54:194664Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+5.71150016785
+20:49:54:853168Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+0.653402090073
+20:50:00:559698Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+5.74933695793
+20:50:01:256003Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+0.64621591568
+20:50:04:428887Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+3.18685793877
+20:50:05:089227Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+0.709603071213
+20:50:10:851859Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+5.77742791176
+20:50:16:629387Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+5.69019007683
+20:50:17:266569Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+0.676197052002
+20:50:22:995802Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+5.75228786469
+20:50:23:695235Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+0.685451030731
+20:50:24:380665Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+0.673370838165
+20:50:25:054084Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+0.656111001968
+20:50:30:763287Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+5.71127200127
+20:50:31:421682Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+0.628170013428
+20:50:39:630514Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+8.30503082275
+20:50:45:408820Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+5.72038412094
+20:50:46:075370Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+0.685415029526
+20:50:51:813927Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+5.68928790092
+20:50:52:450171Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+0.667142152786
+20:51:00:697022Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+8.22890782356
+20:51:01:346356Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+0.698562860489
+20:51:07:098092Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+5.68322300911
+20:51:07:728501Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+0.697000026703
+20:51:10:952029Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+3.16610193253
+20:51:16:644497Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+5.75049805641
+20:51:17:341953Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+0.695510149002
+20:51:20:564178Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+3.20222687721
+20:51:26:292964Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+5.6805639267
+20:51:26:920304Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+0.681393861771
+20:51:32:654976Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+5.70755290985
+20:51:33:309345Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+0.723407030106
+20:51:39:085985Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+5.76354002953
+20:51:39:796494Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+0.660414934158
+20:51:45:510114Temp: 10.0 C Humidity: 152.0 %
+diferencia: 
+5.77043414116
+20:51:48:754051Temp: 10.0 C Humidity: 152.0 %
